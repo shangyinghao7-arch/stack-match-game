@@ -1,0 +1,15 @@
+{
+  "appid": "touristappid",
+  "projectname": "stack-match-game",
+  "description": "堆叠消消乐 - 抖音小游戏",
+  "compileType": "game",
+  "setting": {
+    "es6": true,
+    "enhance": true,
+    "postcss": true,
+    "minified": true
+  },
+  "simulatorType": "douyin",
+  "simulatorPluginLibVersion": {},
+  "condition": {}
+}
